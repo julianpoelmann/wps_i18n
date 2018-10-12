@@ -6,56 +6,56 @@
     <name>KBubbleLocalTip</name>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sommige functies zullen niet werken</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu vernieuwen</translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw abonnement is verlopen</translation>
     </message>
 </context>
 <context>
     <name>KBubbleTipManager</name>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>U heefd %1 dagen geprobeerd, en heefd nog %2 dagen over. &lt;br/&gt;Na deze proefperiode kunt het programma niet meer normaal gebruiken. &lt;br/&gt; Om hier niet door beïnvloed door te worden willen we graag dat u WPS Office aan gaat scaffen</translation>
     </message>
     <message>
         <source>The probation period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translationUw proefperiode is bijna verlopen></translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Koop nu</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt %1 geautoriseerde resterende dagen over. &lt;br/&gt;Na de proefperiode kunt u het product niet meer normaal gebruiken. &lt;br/&gt; Om hier niet door beïnvloed door te worden willen we graag dat u WPS Office aan gaat scaffen.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translation>De geautoriseerde periode verloopt binnenkort</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vernieuw Nu &gt;&gt;</translation>
     </message>
 </context>
 <context>
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS voor Bedrijven</translation>
     </message>
 </context>
 <context>
     <name>KRegisterDlg</name>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>De objecten in &quot;*&quot; moet worden ingevoerd</translation>
     </message>
     <message>
         <source>Documents&apos; Author</source>
